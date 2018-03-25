@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Classic"
+
+# Optional Google font URL
+google_fonts = "Fjalla+One|IBM+Plex+Sans+Condensed:300|Nanum+Gothic+Coding"
+
+# Font families
+heading_font = "Fjalla One"
+body_font = "IBM Plex Sans Condensed"
+nav_font = "Nanum Gothic Coding"
+mono_font = "Nanum Gothic Coding"
+
+# Font size
+font_size = "22"
+font_size_small = "16"

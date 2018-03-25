@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Kenny"
+
+# Optional Google font URL
+google_fonts = "Lato:700|Cutive+Mono"
+
+# Font families
+heading_font = "Lato"
+body_font = "Cutivo Mono"
+nav_font = "Cutivo Mono"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "22"
+font_size_small = "18"
