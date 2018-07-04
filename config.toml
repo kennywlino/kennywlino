@@ -25,7 +25,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-116429587-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -155,8 +155,8 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
-  custom_js  = []
+  custom_css = ['custom.css']
+  custom_js  = ['custom.js']
 
   # Publication types.
   #   Used to categorize publications.
@@ -251,9 +251,20 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 3
+
+[[menu.main]]
   name = "Publications"
   url = "#publications"
   weight = 2
+
+[[menu.main]]
+  name = "Skills"
+  url = "#skills"
+  weight = 4
+
 
 # Taxonomies.
 [taxonomies]

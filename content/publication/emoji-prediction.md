@@ -1,5 +1,5 @@
 +++
-title = "Multilingual Emoji Prediction"
+title = "TAJJEB at SemEval-2018 Task 2: Traditional Approaches Just Do the Job with Emoji Prediction"
 date = "2018-03-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -17,7 +17,7 @@ authors = ["Angelo Basile", "Kenny W. Lino"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Workshop on Semantic Evaluation 2018*."
+publication = "In *Proceedings of The 12th International Workshop on Semantic Evaluation*."
 publication_short = "In *SemEval 2018*"
 
 # Abstract and optional shortened version.
@@ -37,7 +37,7 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "http://www.aclweb.org/anthology/S18-1075"
 # url_preprint = ""
 # url_code = "#"
 # url_dataset = "#"
