@@ -1,6 +1,9 @@
 ## Hello!
 
-I'm Kenny. I'm currently a Software Developer student based in Seattle, WA.
+I'm Kenny. I'm a JavaScript developer with a passion for creating intuitive applications and tools that provide users with a memorable and positive experience.
+
+
+I am proficient with React, Express.js, Node.js, MongoDB, and PostgreSQL along with other popular JavaScript tools. With a background in linguistics and natural language processing, I bring analytical and communication skills that translate well into the tech space.
 
 I can be reached at:
 
